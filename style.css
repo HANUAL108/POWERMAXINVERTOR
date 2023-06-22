@@ -1,0 +1,33 @@
+.p-1 {
+
+}
+
+.para-intro {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.div-intro {
+     display: grid;
+     place-items: center;
+     border:5px solid;
+     
+
+}
+
+.para-2 {
+    font-size: 50px;
+
+}
+
+.img-1 {
+    height: 500px;
+    width: 500px;
+}
+
+.href-1 hover{
+    cursor: pointer;
+
+}
